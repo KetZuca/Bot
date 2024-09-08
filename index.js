@@ -88,4 +88,4 @@ eventFolder.forEach((dir) => {
 
 
 keepAlive();
-client.login("ODgxOTk4NjM2MTg2MjEwMzg0.GcXdD9.sxgEi5jnTSkTqgkxRyMs6cdoZRNpIITR9ShEiw");
+client.login(mySecret);
